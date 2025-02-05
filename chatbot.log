@@ -1,0 +1,1224 @@
+2025-02-05 05:25:58,808 - src.utils.text_processor - INFO - Processador de texto inicializado com sucesso
+2025-02-05 05:25:58,808 - src.chatbot.bot - INFO - Chatbot inicializado com sucesso
+2025-02-05 05:26:03,648 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:26:05,520 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:26:07,463 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:26:08,967 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:01,207 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:03,319 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:05,455 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:06,471 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:07,863 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:09,639 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:11,958 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:27:14,591 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:31:11,150 - src.chatbot.bot - INFO - Tentando carregar configuração de: C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\config\config.yml
+2025-02-05 05:31:11,151 - src.chatbot.bot - INFO - Configuração carregada com sucesso
+2025-02-05 05:31:11,321 - src.utils.text_processor - INFO - Processador de texto inicializado com sucesso
+2025-02-05 05:31:11,321 - src.chatbot.bot - INFO - Chatbot inicializado com sucesso
+2025-02-05 05:31:13,298 - src.chatbot.bot - INFO - Processando mensagem: oi
+2025-02-05 05:31:13,300 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:31:15,098 - src.chatbot.bot - INFO - Processando mensagem: olá
+2025-02-05 05:31:15,100 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:31:16,402 - src.chatbot.bot - INFO - Processando mensagem: Olá
+2025-02-05 05:31:16,403 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:31:17,874 - src.chatbot.bot - INFO - Processando mensagem: Olá!
+2025-02-05 05:31:17,875 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:31:19,698 - src.chatbot.bot - INFO - Processando mensagem: Olá.
+2025-02-05 05:31:19,700 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:31:21,418 - src.chatbot.bot - INFO - Processando mensagem: Oi!
+2025-02-05 05:31:21,420 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:31:22,842 - src.chatbot.bot - INFO - Processando mensagem: oooi
+2025-02-05 05:31:22,843 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:32:15,369 - src.chatbot.bot - INFO - Processando mensagem: Olá
+2025-02-05 05:32:15,371 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:32:18,441 - src.chatbot.bot - INFO - Processando mensagem: bOA TARDE
+2025-02-05 05:32:18,443 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:32:19,993 - src.chatbot.bot - INFO - Processando mensagem: Boa tarde
+2025-02-05 05:32:19,995 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:32:22,673 - src.chatbot.bot - INFO - Processando mensagem: "Boa tarde"
+2025-02-05 05:32:22,675 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:32:25,833 - src.chatbot.bot - INFO - Processando mensagem: Tchau
+2025-02-05 05:32:25,835 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:32:28,481 - src.chatbot.bot - INFO - Processando mensagem: Preciso de ajuda
+2025-02-05 05:32:28,483 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+
+2025-02-05 05:33:35,311 - src.chatbot.bot - INFO - Tentando carregar configuração de: C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\config\config.yml
+2025-02-05 05:33:35,313 - src.chatbot.bot - INFO - Configuração carregada com sucesso
+2025-02-05 05:33:35,475 - src.utils.text_processor - INFO - Processador de texto inicializado com sucesso
+2025-02-05 05:33:35,475 - src.chatbot.bot - INFO - Chatbot inicializado com sucesso
+2025-02-05 05:33:36,872 - src.chatbot.bot - INFO - Processando mensagem: oi
+2025-02-05 05:33:36,874 - src.chatbot.bot - ERROR - Erro ao processar mensagem: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+Traceback (most recent call last):
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\chatbot\bot.py", line 118, in process_message
+    intent = self.text_processor.get_intent(message)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 115, in get_intent
+    tokens = self.preprocess_text(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\src\utils\text_processor.py", line 70, in preprocess_text
+    tokens = word_tokenize(text)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 142, in word_tokenize
+    sentences = [text] if preserve_line else sent_tokenize(text, language)
+                                             ~~~~~~~~~~~~~^^^^^^^^^^^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 119, in sent_tokenize
+    tokenizer = _get_punkt_tokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\__init__.py", line 105, in _get_punkt_tokenizer
+    return PunktTokenizer(language)
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1744, in __init__
+    self.load_lang(lang)
+    ~~~~~~~~~~~~~~^^^^^^
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\tokenize\punkt.py", line 1749, in load_lang
+    lang_dir = find(f"tokenizers/punkt_tab/{lang}/")
+  File "C:\Users\ferna\OneDrive\Documentos\Fernando-DEV\Projetos do Fefo\CHATBOTS\chatbot_ia\venv\Lib\site-packages\nltk\data.py", line 579, in find
+    raise LookupError(resource_not_found)
+LookupError: 
+**********************************************************************
+  Resource [93mpunkt_tab[0m not found.
+  Please use the NLTK Downloader to obtain the resource:
+
+  [31m>>> import nltk
+  >>> nltk.download('punkt_tab')
+  [0m
+  For more information see: https://www.nltk.org/data.html
+
+  Attempted to load [93mtokenizers/punkt_tab/english/[0m
+
+  Searched in:
+    - 'C:\\Users\\ferna/nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\share\\nltk_data'
+    - 'C:\\Users\\ferna\\OneDrive\\Documentos\\Fernando-DEV\\Projetos do Fefo\\CHATBOTS\\chatbot_ia\\venv\\lib\\nltk_data'
+    - 'C:\\Users\\ferna\\AppData\\Roaming\\nltk_data'
+    - 'C:\\nltk_data'
+    - 'D:\\nltk_data'
+    - 'E:\\nltk_data'
+**********************************************************************
+

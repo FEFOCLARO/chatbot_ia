@@ -1,0 +1,28 @@
+# Configurações do Chatbot
+chatbot:
+  name: "Botinho"
+  language: "portuguese"
+  
+# Configurações de NLP
+nlp:
+  stopwords: true
+  lemmatization: true
+  min_confidence: 0.7
+  
+# Configurações de logging
+logging:
+  level: "INFO"
+  format: "%(asctime)s - %(name)s - %(levelname)s - %(message)s"
+  file: "chatbot.log"
+
+# Configurações de resposta
+responses:
+  default: "Desculpe, não entendi. Pode reformular?"
+  greeting: 
+    - "Olá!"
+    - "Oi, como vai?"
+    - "Olá, como posso ajudar?"
+  farewell:
+    - "Até logo!"
+    - "Tchau!"
+    - "Foi bom conversar com você!"
